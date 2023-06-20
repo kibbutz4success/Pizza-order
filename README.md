@@ -1,4 +1,5 @@
-# Pizza-order
+# Pizza-c
+# This code compute the bill of order as per the customer request
 
 # 🚨 Don't change the code below 👇
 print("Welcome to Python Pizza Deliveries!")
